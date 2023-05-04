@@ -8,6 +8,7 @@ context of matrix multiplication. Subsequently, you will implement Matrix Multip
 to (potentially) improve the performance. 
 
 What do you have to do:
+
 1 Go through the mathworks link and the other link thoroughly
 
 2 Get matrix Multiplication (on random input values) working
