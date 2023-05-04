@@ -1,4 +1,33 @@
 # Fixed-Point-Vs-Floating-Point
+# Problem Statement
+In this part, you will learn how to use tools to improve your productivity. You will first document how 
+performance scales with matrix size. 
+
+To make the assignment more meaningful, we will look at the use of fixed point arithmetic in the 
+context of matrix multiplication. Subsequently, you will implement Matrix Multiplication in fixed point 
+to (potentially) improve the performance. 
+
+What do you have to do:
+1 Go through the mathworks link and the other link thoroughly
+
+2 Get matrix Multiplication (on random input values) working
+
+3 Use make and project structure as discussed
+
+4 Vary n – the size of the matrix
+
+5 Log the runtimes
+
+6 Plot the graph using gnuplot
+
+7 Implement fixed point arithmetic (basically addition and multiplication)
+
+8 16/32 bit word
+
+9 Q8/Q12/Q16/Q24
+
+10 Repeat steps of the previous bullet using Fixed point
+
 #Tasked performed
 
 In Makefile folder directories with name as given below has been created. 
