@@ -63,3 +63,18 @@ In Makefile folder directories with name as given below has been created.
 will be generated and will also get saved in Makefile directory 
 
 13 Graph has been plotted in matlab to compare performance of C and Matlab 
+# Conclusion
+
+1 Time taken in MATLAB for Floating point matrix multiplication is less compared to 
+time taken in C, Performance of MATLAB here is more. 
+
+2 Time taken in MATLAB is more for Fixed point matrix multiplication when compared 
+to C, Performance of MATLAB is less 
+
+3 Time taken for execution of Fixed-point multiplication is more than floating matrix 
+multiplication in both C and MATLAB. 
+
+4 The difference in time of execution for MATLAB and in C is because of the algorithm 
+written in MATLAB may have more time complexities and space complexities as 
+compared to the one in C. 
+
