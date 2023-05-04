@@ -1,4 +1,5 @@
 # Fixed-Point-Vs-Floating-Point
+Just type make INT=500 in terminal
 # Problem Statement
 In this part, you will learn how to use tools to improve your productivity. You will first document how 
 performance scales with matrix size. 
